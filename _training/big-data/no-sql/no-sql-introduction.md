@@ -1,5 +1,5 @@
 ---
-title: No SQL's introuduction
+title: No SQL introduction
 duration_days: 2
 duration_hours: 14
 time_shares:
